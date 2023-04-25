@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import './reading-list';
 
 @Component({
   selector: 'app-root',
